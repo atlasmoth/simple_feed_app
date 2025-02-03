@@ -1,6 +1,6 @@
 # Demo👋
 
-![Demo](demo.mov)
+![Demo](https://res.cloudinary.com/dzhtwka6d/video/upload/v1738623936/demo_wbtm0w.mov)
 
 ## Get started
 
