@@ -1,6 +1,6 @@
 # Demo👋
 
-![Demo](https://youtube.com/shorts/y7feqVrJlxs)
+[![Demo](https://img.youtube.com/vi/y7feqVrJlxs/0.jpg)](https://youtube.com/shorts/y7feqVrJlxs)
 
 ## Get started
 
